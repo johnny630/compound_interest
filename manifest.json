@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "複利計算機, Compute compound interest",
+  "name": "複利計算機, Compute compound interest",
   "icons": [
     {
       "src": "favicon.ico",
