@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/compound_interest/static/css/main.728bf90a.chunk.css",
+    "main.js": "/compound_interest/static/js/main.7332f57d.chunk.js",
+    "main.js.map": "/compound_interest/static/js/main.7332f57d.chunk.js.map",
+    "runtime~main.js": "/compound_interest/static/js/runtime~main.532e2fb5.js",
+    "runtime~main.js.map": "/compound_interest/static/js/runtime~main.532e2fb5.js.map",
+    "static/js/2.2b4b6e02.chunk.js": "/compound_interest/static/js/2.2b4b6e02.chunk.js",
+    "static/js/2.2b4b6e02.chunk.js.map": "/compound_interest/static/js/2.2b4b6e02.chunk.js.map",
+    "index.html": "/compound_interest/index.html",
+    "precache-manifest.ac8d46252b8251833d7da2cd940e07dc.js": "/compound_interest/precache-manifest.ac8d46252b8251833d7da2cd940e07dc.js",
+    "service-worker.js": "/compound_interest/service-worker.js",
+    "static/css/main.728bf90a.chunk.css.map": "/compound_interest/static/css/main.728bf90a.chunk.css.map"
+  }
+}
