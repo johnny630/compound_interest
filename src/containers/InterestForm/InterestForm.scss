@@ -1,0 +1,30 @@
+#InterestForm {
+  padding: 5px;
+
+  div {
+    padding: 0 0 10px 0;
+  }
+
+  input, select {
+    display: block;
+    padding: 5px;
+    margin: 0 0 5px 0;
+    border: 1 px solid #c2c2c2;
+    border-radius: 5px;
+    background: linear-gradient(#fff, #f0f0f0);
+  }
+
+  .sendBtn {
+    border: 0;
+    background: #3a3a3a;
+    color: #fff;
+    font-weight: 600;
+    padding: .5rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+    transition: .3s background ease;
+    &:hover {
+      background: #686868;
+    }
+  }
+}
