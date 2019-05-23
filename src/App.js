@@ -1,15 +1,19 @@
-import React from 'react';
+import React, { Component } from 'react';
 // import logo from './logo.svg';
 import './App.css';
 
 import CompoundInterest from './containers/CompoundInterest';
 
-function App() {
-  return (
-    <div className="App">
-      <CompoundInterest />
-    </div>
-  );
+class App extends Component {
+  render () {
+    document.title = '複利計算機, Compute compound interest';
+
+    return (
+      <div className="App">
+        <CompoundInterest />
+      </div>
+    );
+  }
 }
 
 export default App;
